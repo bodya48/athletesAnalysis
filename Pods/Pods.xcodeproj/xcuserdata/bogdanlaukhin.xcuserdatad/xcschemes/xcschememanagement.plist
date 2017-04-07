@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-master-plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>sequencing-app-chains-api-objc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>sequencing-file-selector-api-objc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>sequencing-oauth-api-objc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2BB8CFB295E41C87AF84144D70A14F87</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>333FE1F893C524CDA345D91BB6D021B9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ABD1CF53732583B069DED0D79EC3BE82</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE806FC213F7E52219064F3221D53373</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
